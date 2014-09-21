@@ -1,0 +1,21 @@
+{
+	"name": "ractive-decorators-ractive-fileupload",
+	"version": "0.1.0",
+	"author": "Shankar Dhanasekaran",
+	"main": "ractive-decorators-ractive-fileupload.js",
+	"dependencies": {
+		"ractive": "^0.5.4"
+	},
+	"ignore": [
+		".*",
+		"*.json",
+		"demo",
+		"grunt",
+		"node_modules",
+		"src",
+		"test",
+		"Gruntfile.js",
+		"index.html",
+		"README.md"
+	]
+}

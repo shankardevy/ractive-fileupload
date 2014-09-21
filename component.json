@@ -1,0 +1,16 @@
+{
+	"name": "ractive-decorators-ractive-fileupload",
+	"repo": "git://github.com/shankardevy/ractive-fileupload.git",
+	"description": "ractive-decorators-ractive-fileupload",
+	"version": "0.1.0",
+	"keywords": [],
+	"dependencies": {
+		"ractivejs/ractive": "^0.5.4"
+	},
+	"development": {},
+	"license": "MIT",
+	"main": "ractive-decorators-ractive-fileupload.js",
+	"scripts": [
+		"ractive-decorators-ractive-fileupload.js"
+	]
+}
